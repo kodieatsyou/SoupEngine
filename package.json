@@ -1,0 +1,20 @@
+{
+  "name": "soupengine2",
+  "version": "1.0.0",
+  "description": "SoupEngine 2.0",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "soupengine": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "request": "^2.88.2"
+  }
+}
