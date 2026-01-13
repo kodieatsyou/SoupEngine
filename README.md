@@ -45,25 +45,23 @@ You can rotate it in real time using the keyboard:
 - Node.js 18 or newer (tested on Node 22)
 - A terminal that supports ANSI escape codes (macOS Terminal, iTerm2, Linux terminals, Windows Terminal)
 
-Check your Node version:
+## Installation
+- Clone the repo:
 ```bash
-Installation
-
-Clone the repo:
-
 git clone https://github.com/kodieatsyou/SoupEngine.git
 cd SoupEngine
-
-Install dependencies:
+```
+- Install dependencies:
+```bash
 npm install
+```
 
-Running the Engine
-
-From the project root:
-
+## Running the Engine
+- From the project root:
+```bash
 node bin/index.js
-
-Or using npm:
-
+```
+- Or using npm:
+```bash
 npm start
 ```
