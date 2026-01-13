@@ -13,12 +13,9 @@ This project is an experimental software renderer focused on learning:
 
 ## Features
 
-- 3D vector and matrix math (custom implementation)
-- Triangle meshes
 - Real-time rotation using keyboard input
 - Terminal framebuffer with ANSI color rendering
 - Simple world + screen abstraction
-- Interactive controls
 - Zero external rendering libraries
 
 ---
